@@ -1,8 +1,8 @@
 {
-  "show_message": false,
+  "show_message": true,
   "title": "NEW UPDATE FOUND",
   "text": "https://pastebin.com/raw/L7HvpKeM",
   "positive": "Let's Bake",
   "link": "https://snappie.glitch.me",
-  "is_cancelable": true
+  "is_cancelable": false
 }
