@@ -1,8 +1,8 @@
 {
   "show_message": true,
   "title": "UPDATE FOUND",
-  "content_url": "https://pastebin.com/raw/L7HvpKeM",
-  "positive_btn": "Download",
+  "text": "https://pastebin.com/raw/L7HvpKeM",
+  "positive": "Download",
   "link": "https://google.com",
-  "cancelable": false
+  "is_cancelable": true
 }
